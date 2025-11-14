@@ -37,19 +37,30 @@ Research ZK + Lighter integration, build MVP
 
 **Goals:** Completed initial research and scope.
 
-**Progress Summary:** Scoped out UI for the frontend, started Noir circuits.
+**Progress Summary:**
+
+- Planned architecture for the project(see resources included in the project repo)
+- Scoped out UI for the frontend
+- Started creating Noir circuits
 
 ### Week 2 (ends Nov 7)
 
 **Goals: Finished circuits**
 
-**Progress Summary:** V1 Circuits completed, Mocked frontend finished
+**Progress Summary:**
+
+- V1 Circuits completed
+- Mocked frontend finished
+- User Journey design
 
 ### 🗓️ Week 3 (ends Nov 14)
 
 **Goals:** Wrap-up project
 
-**Progress Summary:** Completed Contract + Circuits integration
+**Progress Summary:**
+
+- Completed Stylus contract + Circuits integration
+- README with project description
 
 ## Final Wrap-Up
 
