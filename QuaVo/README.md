@@ -55,7 +55,7 @@ Research ZK + Lighter integration, build MVP
 
 _After Week 3, summarize your final state: deliverables, repo links, and outcomes._
 
-- **Main Repository Link:** https://github.com/JustAnotherDevv/Invisible-Garden
+- **Main Repository Link:** https://github.com/JustAnotherDevv/Arbitrum-Stylus-MCP
 - **Demo / Deployment Link (if any):**
 - **Slides / Presentation (if any):**
 
