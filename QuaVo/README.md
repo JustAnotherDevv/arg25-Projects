@@ -7,9 +7,9 @@ You’ll update your progress weekly **in the same PR**, so mentors and reviewer
 
 ## Project Title
 
-ZKLigther
+Quavo
 
-Trading interfacce built on top of ligther.
+Stylus + Noir Quadratic Voting
 
 ## Team
 
@@ -19,16 +19,17 @@ Trading interfacce built on top of ligther.
 
 ## Project Description
 
-Currently one of the most popular Ethereum L2s - Lighter has no other trading interfaces except for the official one.
+A privacy-preserving quadratic voting system that combines Noir's zero-knowledge proofs with Arbitrum Stylus smart contracts. Users can vote on proposals with their voting power calculated quadratically (cost = votes²), while zero-knowledge proofs ensure complete ballot secrecy. The system verifies eligibility and prevents double-voting without revealing individual voter indentities.
 
 ## Tech Stack
 
-- Frontend: Vite + React + Ts
-- Backend: Ts + ExpressJS + SQLite
+- Frontend: Vite + React + Tailwind
+- Contracts: Stylus
+- Circuts: Noir
 
 ## Objectives
 
-Have completed research on how to integrate Lighter into third-party applications and finished PoC.
+Research ZK + Lighter integration, build MVP
 
 ## Weekly Progress
 
@@ -36,31 +37,33 @@ Have completed research on how to integrate Lighter into third-party application
 
 **Goals:** Completed initial research and scope.
 
-**Progress Summary:** Scoped out UI for the frontend, started Lighter indexer for txs.
+**Progress Summary:** Scoped out UI for the frontend, started Noir circuits.
 
 ### Week 2 (ends Nov 7)
 
-**Goals:**
+**Goals: Finished circuits**
 
-**Progress Summary:**
+**Progress Summary:** V1 Circuits completed, Mocked frontend finished
 
 ### 🗓️ Week 3 (ends Nov 14)
 
-**Goals:**
+**Goals:** Wrap-up project
 
-**Progress Summary:**
+**Progress Summary:** Completed Contract + Circuits integration
 
 ## Final Wrap-Up
 
 _After Week 3, summarize your final state: deliverables, repo links, and outcomes._
 
-- **Main Repository Link:**
+- **Main Repository Link:** https://github.com/JustAnotherDevv/Invisible-Garden
 - **Demo / Deployment Link (if any):**
 - **Slides / Presentation (if any):**
 
 ## 🧾 Learnings
 
 _What did you learn or improve during ARG25?_
+
+I improved my Stylus and Noir knowledge.
 
 ## Next Steps
 
